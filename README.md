@@ -17,7 +17,7 @@ An interactive COVID-19 Analysis Dashboard built entirely in Microsoft Excel usi
 •	Excel Formulas 
 •	Conditional Formatting 
 •	Dashboard Design 
-________________________________________
+
 # Dataset Information
 The dataset contains COVID-19 statistics for multiple countries and includes:
 •	Country 
@@ -33,7 +33,6 @@ The dataset contains COVID-19 statistics for multiple countries and includes:
 •	Active Cases 
 •	Tests Conducted 
 •	Vaccination Data 
-________________________________________
 
 # Dashboard Features
 # KPI Cards
@@ -57,7 +56,7 @@ The dashboard displays key metrics:
 •	Cases by Country – World map displaying country-wise case distribution. 
 •	New Cases vs Recoveries – Clustered column chart for comparison. 
 •	Vaccination Distribution – Pie chart illustrating vaccination shares. 
-________________________________________
+
 # Data Preparation
 The dataset was prepared in Microsoft Excel:
 •	Removing duplicate records 
@@ -66,14 +65,14 @@ The dataset was prepared in Microsoft Excel:
 •	Organizing data into structured tables 
 •	Creating Pivot Tables for analysis 
 •	Building Pivot Charts for visualization 
-________________________________________
+
 # Key Insights
 •	India recorded the highest total COVID-19 cases among the selected countries. 
 •	Monthly new cases showed noticeable fluctuations during the reporting period. 
 •	Recovery counts remained close to new case counts in several countries. 
 •	Vaccination distribution was relatively balanced among the selected countries. 
 •	Interactive filters allow users to explore trends by country, state, city, and reporting period. 
-________________________________________
+
 # Skills Demonstrated
 •	Microsoft Excel 
 •	Data Cleaning 
@@ -85,7 +84,7 @@ ________________________________________
 •	Data Visualization 
 •	KPI Reporting 
 •	Trend Analysis 
-________________________________________
+
 # Business Value
 This dashboard helps users:
 •	Monitor COVID-19 trends. 
